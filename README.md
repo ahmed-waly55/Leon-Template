@@ -14,7 +14,7 @@ This repo is perfect for:
 
 ## 📁 Structure
 ```
-/project-name
+/Leon 
 ├── index.html
 ├── css/
 │   └── style.css
@@ -25,3 +25,6 @@ This repo is perfect for:
 
 
 ```
+
+## Preview 
+<a href="https://ahmed-waly55.github.io/Leon-Template/">Leon Preview</a>
